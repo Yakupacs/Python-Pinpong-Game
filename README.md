@@ -2,9 +2,8 @@
 
 *I created Pinpong Game with "Turtle" module
 
-----------
+---------
 
-![Ekran Görüntüsü (759)](https://user-images.githubusercontent.com/73075252/161357406-96f27b40-2196-4fff-876e-c64a7347da48.png)
-
+<img src="![Ekran Görüntüsü (759)](https://user-images.githubusercontent.com/73075252/161357459-5582e3cb-78ad-48a5-a9d9-ca80ff4e26ce.png)" width="700">
 
 ----------
