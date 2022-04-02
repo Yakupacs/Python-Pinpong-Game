@@ -1,6 +1,6 @@
 # Python-Pinpong-Game
 
-*I created Pinpong Game with "Turtle" module
+*I created Pinpong Game with "Turtle" module*
 
 ---------
 
